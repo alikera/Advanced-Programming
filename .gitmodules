@@ -1,3 +1,6 @@
 [submodule "Field-Runners"]
 	path = Field-Runners
 	url = https://github.com/alikera/Field-Runners.git
+[submodule "UTRIP"]
+	path = UTRIP
+	url = https://github.com/alikera/UTRIP.git
